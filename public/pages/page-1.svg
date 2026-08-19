@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 1100" width="850" height="1100">
+  <rect width="850" height="1100" fill="#f4f1ea"/>
+  <rect x="28" y="28" width="794" height="1044" fill="none" stroke="#c9c1ae" stroke-width="2"/>
+  <text x="60" y="86" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="26" fill="#2b2b2b" letter-spacing="3">PASSPORT / PASSEPORT</text>
+  <text x="60" y="112" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#6b6455">REPUBLIC OF INDIA</text>
+  <line x1="60" y1="130" x2="790" y2="130" stroke="#c9c1ae" stroke-width="1"/>
+  <rect x="630" y="170" width="150" height="190" fill="#e2ddd0" stroke="#c9c1ae"/>
+  <text x="660" y="270" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="12" fill="#8f887a">PHOTOGRAPH</text>
+  <text x="60" y="190" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">SURNAME / NOM</text>
+  <text x="60" y="216" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">MARWAH</text>
+  <text x="60" y="264" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">GIVEN NAMES / PRÉNOMS</text>
+  <text x="60" y="290" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">PRIYA ANJALI</text>
+  <text x="60" y="338" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">PASSPORT NO. / NO. DU PASSEPORT</text>
+  <text x="60" y="364" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">X4829173</text>
+  <text x="60" y="412" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">NATIONALITY / NATIONALITÉ</text>
+  <text x="60" y="438" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">INDIAN</text>
+  <text x="60" y="486" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">DATE OF BIRTH / DATE DE NAISSANCE</text>
+  <text x="60" y="512" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">14 MAR 1991</text>
+  <text x="60" y="560" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">SEX / SEXE</text>
+  <text x="60" y="586" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">F</text>
+  <text x="400" y="190" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">PLACE OF BIRTH / LIEU DE NAISSANCE</text>
+  <text x="400" y="216" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">PUNE, MAHARASHTRA</text>
+  <text x="400" y="264" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">DATE OF ISSUE / DATE DE DÉLIVRANCE</text>
+  <text x="400" y="290" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">02 JUN 2019</text>
+  <text x="400" y="338" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">DATE OF EXPIRY / DATE D’EXPIRATION</text>
+  <text x="400" y="364" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">01 JUN 2029</text>
+  <text x="400" y="412" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="10" fill="#7d7566" letter-spacing="1">AUTHORITY / AUTORITÉ</text>
+  <text x="400" y="438" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="17" fill="#1c1c1c">MIN. OF EXTERNAL AFFAIRS</text>
+  <line x1="60" y1="940" x2="790" y2="940" stroke="#c9c1ae" stroke-width="1"/>
+  <text x="60" y="985" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="16" fill="#1c1c1c">P&lt;INDMARWAH&lt;&lt;PRIYA&lt;ANJALI&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</text>
+  <text x="60" y="1015" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="16" fill="#1c1c1c">X48291734IND9103148F2906015&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;06</text>
+</svg>

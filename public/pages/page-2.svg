@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 1100" width="850" height="1100">
+  <rect width="850" height="1100" fill="#fbfaf7"/>
+  <text x="56" y="66" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="15" fill="#1c1c1c">Form G-28, Notice of Entry of Appearance</text>
+  <text x="56" y="86" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="11" fill="#6b6455">Department of Homeland Security — U.S. Citizenship and Immigration Services</text>
+  <line x1="56" y1="100" x2="794" y2="100" stroke="#b9b1a0" stroke-width="2"/>
+  <rect x="56" y="124" width="738" height="24" fill="#e8e3d7"/>
+  <text x="64" y="140" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="12" fill="#2b2b2b">Part 1. Information About Attorney or Accredited Representative</text>
+  <text x="64" y="180" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Full Name of Attorney</text>
+  <rect x="60" y="186" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="204" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">Daniel R. Okonkwo</text>
+  <text x="452" y="180" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Bar Number</text>
+  <rect x="448" y="186" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="204" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">CA 284119</text>
+  <text x="64" y="244" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Licensing Authority</text>
+  <rect x="60" y="250" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="268" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">California</text>
+  <text x="452" y="244" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Name of Law Firm</text>
+  <rect x="448" y="250" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="268" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">Okonkwo &amp; Vance LLP</text>
+  <text x="64" y="308" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Street Number and Name</text>
+  <rect x="60" y="314" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="332" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">1200 Harrison Street, Ste 410</text>
+  <text x="452" y="308" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">City or Town</text>
+  <rect x="448" y="314" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="332" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">Oakland</text>
+  <text x="64" y="372" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">State</text>
+  <rect x="60" y="378" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="396" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">CA</text>
+  <text x="452" y="372" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">ZIP Code</text>
+  <rect x="448" y="378" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="396" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">94612</text>
+  <text x="64" y="436" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Daytime Telephone Number</text>
+  <rect x="60" y="442" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="460" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">(510) 555-0142</text>
+  <text x="452" y="436" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Email Address</text>
+  <rect x="448" y="442" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="460" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">dokonkwo@okonkwovance.com</text>
+  <rect x="56" y="508" width="738" height="24" fill="#e8e3d7"/>
+  <text x="64" y="524" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="12" fill="#2b2b2b">Part 2. Information About Client</text>
+  <text x="64" y="564" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Full Name of Client</text>
+  <rect x="60" y="570" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="588" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">Priya Anjali Marwah</text>
+  <text x="452" y="564" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">A-Number (if any)</text>
+  <rect x="448" y="570" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="588" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">A 216 998 471</text>
+  <text x="64" y="628" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Street Number and Name</text>
+  <rect x="60" y="634" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="652" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">88 Cedar Ridge Way, Apt 3B</text>
+  <text x="452" y="628" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">City or Town</text>
+  <rect x="448" y="634" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="652" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">San Mateo</text>
+  <text x="64" y="692" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">State</text>
+  <rect x="60" y="698" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="716" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">CA</text>
+  <text x="452" y="692" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">ZIP Code</text>
+  <rect x="448" y="698" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="716" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">94402</text>
+  <text x="64" y="756" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Daytime Telephone Number</text>
+  <rect x="60" y="762" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="780" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">(650) 555-0193</text>
+  <text x="452" y="756" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Email Address</text>
+  <rect x="448" y="762" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="780" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">p.marwah@example.com</text>
+  <rect x="56" y="828" width="738" height="24" fill="#e8e3d7"/>
+  <text x="64" y="844" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="12" fill="#2b2b2b">Part 3. Scope of Representation and Signature</text>
+  <text x="64" y="884" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">I am an accredited representative</text>
+  <rect x="60" y="890" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="908" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">No</text>
+  <text x="452" y="884" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">I appear on behalf of</text>
+  <rect x="448" y="890" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="908" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">Beneficiary</text>
+  <text x="64" y="948" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Form Edition Date</text>
+  <rect x="60" y="954" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="64" y="972" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">03/01/2023</text>
+  <text x="452" y="948" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">Date of Signature</text>
+  <rect x="448" y="954" width="330" height="26" fill="#ffffff" stroke="#cfc8b8"/>
+  <text x="452" y="972" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="13" fill="#1c1c1c">11/18/2025</text>
+  <line x1="64" y1="1012" x2="380" y2="1012" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="64" y="1032" font-family="'DejaVu Sans Mono','SFMono-Regular',Menlo,monospace" font-size="9" fill="#7d7566">SIGNATURE OF ATTORNEY OR ACCREDITED REPRESENTATIVE</text>
+</svg>

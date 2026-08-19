@@ -1,0 +1,76 @@
+{
+  "messages": [
+    {
+      "fieldId": "passport.place_of_birth",
+      "value": "Pune, Maharashtra",
+      "confidence": 0.86,
+      "delayMs": 700
+    },
+    {
+      "fieldId": "g28.client_a_number",
+      "value": "A 216 998 471",
+      "confidence": 0.93,
+      "delayMs": 600
+    },
+    {
+      "fieldId": "passport.date_of_birth",
+      "value": "1991-03-14",
+      "confidence": 0.9,
+      "delayMs": 800
+    },
+    {
+      "fieldId": "g28.representation_scope",
+      "value": "Beneficiary",
+      "confidence": 0.94,
+      "delayMs": 500
+    },
+    {
+      "fieldId": "g28.firm_email",
+      "value": "dokonkwo@okonkwovance.com",
+      "confidence": 0.97,
+      "delayMs": 600
+    },
+    {
+      "fieldId": "passport.issuing_authority",
+      "value": "Ministry of External Affairs",
+      "confidence": 0.95,
+      "delayMs": 700
+    },
+    {
+      "fieldId": "passport.date_of_birth",
+      "value": "1991-04-13",
+      "confidence": 0.87,
+      "delayMs": 900
+    },
+    {
+      "fieldId": "g28.client_email",
+      "value": "priya.marwah@example.com",
+      "confidence": 0.79,
+      "delayMs": 800
+    },
+    {
+      "fieldId": "passport.passport_number",
+      "value": "X482917E",
+      "confidence": 0.97,
+      "delayMs": 700
+    },
+    {
+      "fieldId": "g28.attorney_bar_number",
+      "value": "CA 284119",
+      "confidence": 0.91,
+      "delayMs": 600
+    },
+    {
+      "fieldId": "g28.signature_date",
+      "value": "2025-11-18",
+      "confidence": 0.96,
+      "delayMs": 500
+    },
+    {
+      "fieldId": "g28.client_phone",
+      "value": "(650) 555-0193",
+      "confidence": 0.95,
+      "delayMs": 600
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "documentId": "doc_8f2a1c",
+  "caseRef": "ALM-2025-0417",
+  "extractedAt": "2026-08-14T17:22:09.000Z",
+  "model": "extractor-v3",
+  "pages": [
+    {
+      "page": 1,
+      "src": "/pages/page-1.svg",
+      "width": 850,
+      "height": 1100,
+      "label": "Passport — data page"
+    },
+    {
+      "page": 2,
+      "src": "/pages/page-2.svg",
+      "width": 850,
+      "height": 1100,
+      "label": "Form G-28"
+    }
+  ],
+  "fields": [
+    {
+      "id": "passport.surname",
+      "label": "Surname",
+      "group": "Beneficiary identity",
+      "type": "text",
+      "value": "Marwah",
+      "confidence": 0.99,
+      "span": {
+        "page": 1,
+        "x": 0.0671,
+        "y": 0.1809,
+        "w": 0.0791,
+        "h": 0.0209
+      }
+    },
+    {
+      "id": "passport.given_names",
+      "label": "Given names",
+      "group": "Beneficiary identity",
+      "type": "text",
+      "value": "Priya Anjali",
+      "confidence": 0.98,
+      "span": {
+        "page": 1,
+        "x": 0.0671,
+        "y": 0.2482,
+        "w": 0.1511,
+        "h": 0.0209
+      }
+    },
+    {
+      "id": "passport.passport_number",
+      "label": "Passport number",
+      "group": "Beneficiary identity",
+      "type": "text",
+      "value": "X482917E",
+      "confidence": 0.97,
+      "span": {
+        "page": 1,
+        "x": 0.0671,
+        "y": 0.3155,
+        "w": 0.1031,
+        "h": 0.0209
+      }
+    },
+    {
+      "id": "passport.nationality",
+      "label": "Nationality",
+      "group": "Beneficiary identity",
+      "type": "text",
+      "value": "Indian",
+      "confidence": 0.96,
+      "span": {
+        "page": 1,
+        "x": 0.0671,
+        "y": 0.3827,
+        "w": 0.0791,
+        "h": 0.0209
+      }
+    },
+    {
+      "id": "passport.date_of_birth",
+      "label": "Date of birth",
+      "group": "Beneficiary identity",
+      "type": "date",
+      "value": "1991-03-14",
+      "confidence": 0.93,
+      "span": {
+        "page": 1,
+        "x": 0.0671,
+        "y": 0.45,
+        "w": 0.1391,
+        "h": 0.0209
+      }
+    },
+    {
+      "id": "passport.sex",
+      "label": "Sex",
+      "group": "Beneficiary identity",
+      "type": "enum",
+      "value": "F",
+      "confidence": 0.99,
+      "span": {
+        "page": 1,
+        "x": 0.0671,
+        "y": 0.5173,
+        "w": 0.0191,
+        "h": 0.0209
+      },
+      "options": [
+        "F",
+        "M",
+        "X"
+      ]
+    },
+    {
+      "id": "passport.place_of_birth",
+      "label": "Place of birth",
+      "group": "Beneficiary identity",
+      "type": "text",
+      "value": "",
+      "confidence": 0.31,
+      "span": {
+        "page": 1,
+        "x": 0.4671,
+        "y": 0.1809,
+        "w": 0.2111,
+        "h": 0.0209
+      }
+    },
+    {
+      "id": "passport.date_of_issue",
+      "label": "Passport issue date",
+      "group": "Beneficiary identity",
+      "type": "date",
+      "value": "2019-06-02",
+      "confidence": 0.94,
+      "span": {
+        "page": 1,
+        "x": 0.4671,
+        "y": 0.2482,
+        "w": 0.1391,
+        "h": 0.0209
+      }
+    },
+    {
+      "id": "passport.date_of_expiry",
+      "label": "Passport expiry date",
+      "group": "Beneficiary identity",
+      "type": "date",
+      "value": "2029-06-01",
+      "confidence": 0.95,
+      "span": {
+        "page": 1,
+        "x": 0.4671,
+        "y": 0.3155,
+        "w": 0.1391,
+        "h": 0.0209
+      }
+    },
+    {
+      "id": "passport.issuing_authority",
+      "label": "Issuing authority",
+      "group": "Beneficiary identity",
+      "type": "text",
+      "value": "Ministry of External Affairs",
+      "confidence": 0.88,
+      "span": {
+        "page": 1,
+        "x": 0.4671,
+        "y": 0.3827,
+        "w": 0.2951,
+        "h": 0.0209
+      }
+    },
+    {
+      "id": "passport.mrz_line_1",
+      "label": "MRZ line 1",
+      "group": "Beneficiary identity",
+      "type": "text",
+      "value": "P<INDMARWAH<<PRIYA<ANJALI<<<<<<<<<<<<<<<<<<<",
+      "confidence": 0.91,
+      "span": {
+        "page": 1,
+        "x": 0.0671,
+        "y": 0.8809,
+        "w": 0.504,
+        "h": 0.0196
+      }
+    },
+    {
+      "id": "passport.mrz_line_2",
+      "label": "MRZ line 2",
+      "group": "Beneficiary identity",
+      "type": "text",
+      "value": "X48291734IND9103148F2906015<<<<<<<<<<<<<<06",
+      "confidence": 0.9,
+      "span": {
+        "page": 3,
+        "x": 0.07,
+        "y": 0.9,
+        "w": 0.62,
+        "h": 0.02
+      }
+    },
+    {
+      "id": "g28.attorney_full_name",
+      "label": "Attorney full name",
+      "group": "Attorney",
+      "type": "text",
+      "value": "Daniel R. Okonkwo",
+      "confidence": 0.97,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.1736,
+        "w": 0.1631,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.attorney_bar_number",
+      "label": "Bar number",
+      "group": "Attorney",
+      "type": "text",
+      "value": "CA 284119",
+      "confidence": null,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.1736,
+        "w": 0.0896,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.attorney_licensing_state",
+      "label": "Licensing authority",
+      "group": "Attorney",
+      "type": "text",
+      "value": "California",
+      "confidence": 0.92,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.2318,
+        "w": 0.0988,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.law_firm_name",
+      "label": "Law firm name",
+      "group": "Attorney",
+      "type": "text",
+      "value": "Okonkwo & Vance LLP",
+      "confidence": 0.95,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.2318,
+        "w": 0.1814,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.firm_street",
+      "label": "Firm street address",
+      "group": "Attorney",
+      "type": "text",
+      "value": "1200 Harrison Street, Ste 410",
+      "confidence": 0.89,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.29,
+        "w": 0.2732,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.firm_city",
+      "label": "Firm city",
+      "group": "Attorney",
+      "type": "text",
+      "value": "Oakland",
+      "confidence": 0.96,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.29,
+        "w": 0.0713,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.firm_state",
+      "label": "Firm state",
+      "group": "Attorney",
+      "type": "text",
+      "value": "CA",
+      "confidence": 0.98,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.3482,
+        "w": 0.0254,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.firm_zip",
+      "label": "Firm ZIP code",
+      "group": "Attorney",
+      "type": "text",
+      "value": "94612",
+      "confidence": 0.97,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.3482,
+        "w": 0.0529,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.firm_phone",
+      "label": "Firm phone",
+      "group": "Attorney",
+      "type": "text",
+      "value": "(510) 555-0142",
+      "confidence": 0.93,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.4064,
+        "w": 0.1355,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.firm_email",
+      "label": "Firm email",
+      "group": "Attorney",
+      "type": "text",
+      "value": "dokonkwo@okonkwovance.com",
+      "confidence": 0.9,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.4064,
+        "w": 0.2365,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.client_full_name",
+      "label": "Client full name",
+      "group": "Client",
+      "type": "text",
+      "value": "Priya Anjali Marwah",
+      "confidence": 0.98,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.5227,
+        "w": 0.1814,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.client_a_number",
+      "label": "A-Number",
+      "group": "Client",
+      "type": "text",
+      "value": "A216998471",
+      "confidence": 0.84,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.5227,
+        "w": 0.1264,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.client_street",
+      "label": "Client street address",
+      "group": "Client",
+      "type": "text",
+      "value": "88 Cedar Ridge Way, Apt 3B",
+      "confidence": 0.87,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.5809,
+        "w": 1.02,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.client_city",
+      "label": "Client city",
+      "group": "Client",
+      "type": "text",
+      "value": "San Mateo",
+      "confidence": 0.95,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.5809,
+        "w": 0.0896,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.client_state",
+      "label": "Client state",
+      "group": "Client",
+      "type": "text",
+      "value": "CA",
+      "confidence": 0.98,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.6391,
+        "w": 0.0254,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.client_zip",
+      "label": "Client ZIP code",
+      "group": "Client",
+      "type": "text",
+      "value": "94402",
+      "confidence": 0.96,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.6391,
+        "w": 0.0529,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.client_phone",
+      "label": "Client phone",
+      "group": "Client",
+      "type": "text",
+      "value": "(650) 555-0193",
+      "confidence": 0.92,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.6973,
+        "w": 0.1355,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.client_email",
+      "label": "Client email",
+      "group": "Client",
+      "type": "text",
+      "value": "p.marwah@example.com",
+      "confidence": 0.86,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.6973,
+        "w": 0.1906,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.accredited_representative",
+      "label": "Accredited representative",
+      "group": "Filing",
+      "type": "enum",
+      "value": "No",
+      "confidence": 0.94,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.8136,
+        "w": 0.0254,
+        "h": 0.016
+      },
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "g28.representation_scope",
+      "label": "Appears on behalf of",
+      "group": "Filing",
+      "type": "enum",
+      "value": "Beneficiary",
+      "confidence": 0.81,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.8136,
+        "w": 0.108,
+        "h": 0.016
+      },
+      "options": [
+        "Applicant",
+        "Petitioner",
+        "Beneficiary",
+        "Respondent"
+      ]
+    },
+    {
+      "id": "g28.form_edition_date",
+      "label": "Form edition date",
+      "group": "Filing",
+      "type": "date",
+      "value": "2023-03-01",
+      "confidence": 0.9,
+      "span": {
+        "page": 2,
+        "x": 0.0718,
+        "y": 0.8718,
+        "w": 0.0988,
+        "h": 0.016
+      }
+    },
+    {
+      "id": "g28.signature_date",
+      "label": "Signature date",
+      "group": "Filing",
+      "type": "date",
+      "value": "2025-11-18",
+      "confidence": 0.88,
+      "span": {
+        "page": 2,
+        "x": 0.5282,
+        "y": 0.8718,
+        "w": 0.0988,
+        "h": 0.016
+      }
+    }
+  ]
+}
